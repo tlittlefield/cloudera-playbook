@@ -1,7 +1,7 @@
 ---
 
 # 'ad', 'mit', or 'none' to disable security
-krb5_kdc_type: mit
+krb5_kdc_type: none
 
 krb5_kdc_master_passwd: changeme
 
